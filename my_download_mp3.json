@@ -1,9 +1,10 @@
+
 {
-"force": 1,
-"name": "",
-"des": "",
-"package_name": "",
-"icon": "",
+"force": 0,
+"name": "Music Downloader - Free Online Music Download",
+"des": "Free music download app, Mp3 music downloader free All song downloader",
+"package_name": "com.musicdownload.mp3download.musicto",
+"icon": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQubXAzZG93bmxvYWQubXVzaWN0b19pY29uXzE1ODg5NzIxMDZfMDIz/icon.png?w=340&fakeurl=1",
 "no_ct": "jp_in_ru",
 "all_ct": "",
 "second_ct": "",
